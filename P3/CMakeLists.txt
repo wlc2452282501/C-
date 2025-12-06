@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(P3_7 VERSION 0.1.0)
+
+add_executable(P3_7 P3_7.cpp)
+add_executable(P3_9 P3_9.cpp)
+add_executable(P3_13 P3_13.cpp)
+add_executable(P3_14 P3_14.cpp)
+add_executable(P3_15 P3_15.cpp)
