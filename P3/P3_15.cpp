@@ -8,6 +8,8 @@ int main()
 
     printf("%s\n", ch);
     printf("%s\n", str.c_str());
+    str += "efgh";
+    printf("%s\n", str.c_str());
 
     return 0;
 }
