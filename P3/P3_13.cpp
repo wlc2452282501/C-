@@ -15,11 +15,11 @@ int main()
 
     // scanf("%s", str); // 不能用scanf读入string类型
     cin >> ch;
-    string不能用cin.get()读入
-    getline(cin, ch2); // 不能用getline读入char数组
+    // string不能用cin.get()读入
+    // getline(cin, ch2); // 不能用getline读入char数组
     cin.getline(ch2, 20); // 不能用cin.getline读入string类型
-    cin.getline和getline都会受到换行符的影响
-    getline(cin,str); 
+    // cin.getline和getline都会受到换行符的影响
+    getline(cin,str);
     // str.getline(); getline不是string的成员函数
     // scanf("%s", ch);
     // cin会跳过前导空白字符，包括空格、制表符和换行符，直到遇到第一个非空白字符为止
