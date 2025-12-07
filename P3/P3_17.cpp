@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// 定义结构体
 struct Student
 {
     string name;
