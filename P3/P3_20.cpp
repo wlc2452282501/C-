@@ -3,14 +3,16 @@
 using namespace std;
 
 enum {
-    AsInt = 0,
-    AsDouble = 1,
+    AsInt ,
+    AsDouble = 100,
     AsText = 3
 };
 
 int main()
 {
     int a;
+
+    a = AsInt;
 
     switch (a)
     {
