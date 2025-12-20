@@ -1,0 +1,3 @@
+/home/rm/wlc/C++/P5/build/CMakeFiles/P5_1.dir
+/home/rm/wlc/C++/P5/build/CMakeFiles/edit_cache.dir
+/home/rm/wlc/C++/P5/build/CMakeFiles/rebuild_cache.dir
