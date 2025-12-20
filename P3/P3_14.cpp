@@ -16,7 +16,7 @@ int main()
     char str1[] = "Hello ";
     string str;
     // strcpy(str,str1); // 错误，strcpy不能用于string类型
-    str = str1; // 正确，string类型可以直接赋值char数组
+    str = str1; // 正确，c++的string类支持直接赋值,char数组会自动转换为string
     // str.size(); // 获取字符串长度
     // strlen(str1); // 获取char数组长度
     cout << str << endl;
