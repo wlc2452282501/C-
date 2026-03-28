@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/P4_12.dir/P4_12.cpp.o  -o P4_12 
